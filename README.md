@@ -1,5 +1,7 @@
 # pumprssparser
 
+General RSS/FEED parser library for PHP.
+
 EXAMPLE
 =========================
 ```
