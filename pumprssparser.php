@@ -136,7 +136,6 @@ class PumpRssParser {
         } else {
             $this->result['title'] = $body['title'];
         }
-        $this->result['title'] = $body['title']['value'];
         $this->result['url'] = @$body['link']['_attrs']['href'];
         $this->result['items'] = array();
 
