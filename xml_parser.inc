@@ -122,6 +122,3 @@ class xml_parser {
  
 
 }
-
-?>
-
